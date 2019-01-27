@@ -21,5 +21,5 @@ baseline values and then add smaller and smaller variance so that each "random w
 would start to form a finely-tuned path (This is referred to as simulated annealing 
 with a genetic algorithm). 
 Unfortunately, even the easy AI has an efficiency that requires at least a basic 
-early strategy which is hard to randomly stumble across when my computer can only run
+early strategy which is hard to randomly stumble across when my computer can only run ~200
 simulations in 7 hours.
