@@ -1,6 +1,13 @@
 SC2AI Mellow-Bot Python
 
-
+NOT UPDATED. THIS BOT SUCKS. DON'T LOOK HERE AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHH
+.
+.
+.
+.
+.
+.
+.
 The idea was to use varying heuristic values for buildings/units every 40 seconds, 
 choose the best three units, build them, and then repeat until I've either lost 
 the game or won the game. If I've won the game, save the heuristic values that 
